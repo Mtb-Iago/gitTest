@@ -52,6 +52,7 @@
                             ?>
                             <div id="msg-sucesso">
                             <a href="index.php">Cadastrado com sucesso aperte para <strong>Entrar!</strong></a>
+                            <!---botao para voltar a tela de login--->
                             </div>
                             <?php
                         }
