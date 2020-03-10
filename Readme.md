@@ -1,0 +1,1 @@
+Erro com propriedade nao definida em classe usuario, o erro que vem do try cacth não atrapalha na excução da aplicação mais gostaria de tratá-lo.
