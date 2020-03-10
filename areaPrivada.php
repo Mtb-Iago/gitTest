@@ -11,5 +11,6 @@ if(!isset($_SESSION['id_usuario']))
 ?>
 
 PARABÉNS VOCÊ ENTROU EM AREA RESTRITA   !!!!!
+VAMOS IMPLEMENTAR ESSA PAGINA?
 <a href="sair.php"> Sair</a>
 
